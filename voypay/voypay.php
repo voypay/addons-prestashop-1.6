@@ -1,14 +1,10 @@
 <?php
-///**
-// * Created by PhpStorm.
-// * User: voypay
-// * Date: 2017/6/23
-// * Time: 18:03
-// */
-//use PrestaShop\PrestaShop\Core\Payment\PaymentOption;
-//if (!defined('_PS_VERSION_')) {
-//    exit;
-//}
+/**
+ * Created by PhpStorm.
+ * User: voypay
+ * Date: 2017/6/23
+ * Time: 18:03
+ */
 class voypay extends PaymentModule{
     protected $_errors = array();
     public function __construct(){
