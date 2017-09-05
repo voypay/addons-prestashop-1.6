@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>voypay</name>
+    <displayName><![CDATA[Voypay Payments]]></displayName>
+    <version><![CDATA[1.0.1]]></version>
+    <description><![CDATA[Simplify Commerce, an online payment solution that helps businesses sell more by enabling their customers to pay how they want to pay.
+It is a uniquely versatile, highly secure and incredibly simple cloud-based payments platform. ]]></description>
+    <author><![CDATA[Voypay Ltd]]></author>
+    <tab><![CDATA[payments_gateways]]></tab>
+	<confirmUninstall><![CDATA[Are you sure you want to delete your details ?]]></confirmUninstall>
+    <is_configurable>1</is_configurable>
+    <need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>
